@@ -33,6 +33,20 @@ git@github.com:FrolovAlex22/test-task-domconnect-selenium.git
 ```
 cd test-task-domconnect-selenium
 ```
+Cоздать и активировать виртуальное окружение:
+
+Команда для установки виртуального окружения на Mac или Linux:
+```
+python3 -m venv env
+source env/bin/activate
+Команда для Windows:
+```
+
+```
+python -m venv venv
+source venv/Scripts/activate
+Перейти в директорию devops:
+```
 
 Выполните команду:
 ```

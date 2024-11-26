@@ -46,6 +46,7 @@ def main():
                 result_text += f"{elem_text[1]} {elem_text[2]}\n"
 
         print(result_text[:-1])  # Печатаем результат.
+        return
 
 
 if __name__ == "__main__":
